@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">DEVOPS marolix BATCH HYD </h1>
+<h1 align="center">DEVOPS marolix batch 5 BATCH HYD </h1>
 <h1 align="center"> Marolix
 	Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
